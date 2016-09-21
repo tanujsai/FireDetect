@@ -12,7 +12,7 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(7, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 def action(pin):
-    print 'Sensor detected action!'
+    print 'Sensor detected action!' #Shows alert Message to terminal
     return
 
 GPIO.add_event_detect(7, GPIO.RISING)
