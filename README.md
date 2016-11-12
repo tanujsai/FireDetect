@@ -13,6 +13,4 @@ Using this application we can detect Fire/Smoke/Motion in a Particular room
 -> MQ2 Smoke Sensor/Motion Sensor (I tested this application on both the devices) <br>
 -> BreadBoard and Couple of resistors <br>
 
-Go to <b> /PythonCode </b> for Application Code <br>
-Go to <b> /AndroidApplication </b> for Android Application Code
 
